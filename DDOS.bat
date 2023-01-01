@@ -1,6 +1,6 @@
 @echo off
 mode 67,16
-title DDoS Attack By Panoc Team
+title DDoS Attack By Xtc | TeamCode
 color 8
 cls
 echo.
